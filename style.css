@@ -1,0 +1,31 @@
+body {
+    width: 700px;
+    margin: 10px auto;
+}
+
+caption {
+    font-weight: bold;
+    font-size: 25px;
+    margin: 0 0 20px;
+}
+
+th, td {
+    border:1px solid black;
+    height: 30px;
+}
+
+table {
+    border: 16px ridge grey;
+    border-collapse: collapse;
+    width: 1000px;
+}
+
+td {
+    text-align: center;
+}
+
+#lunsj {
+    font-weight: bold;
+    writing-mode: vertical-rl;
+    text-orientation: upright;
+}
